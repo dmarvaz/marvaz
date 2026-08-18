@@ -1,0 +1,8 @@
+_site
+.quarto/
+__psycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
