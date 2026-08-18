@@ -1,8 +1,10 @@
-_site
+_site/
 .quarto/
-__psycache__/
+__pycache__/
 *.pyc
 .venv/
 venv/
 .DS_Store
 Thumbs.db
+**/*.quarto_ipynb
+content.txt
